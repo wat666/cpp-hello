@@ -1,12 +1,10 @@
 #include <iostream>
 
 using namespace std;
-//rofl
+//No longer need comments
 int main()
 {
     int a = 100;
-    cout << "Hello world!" << endl;
+    cout << "Hello world!" << endl << "What the fuck" << endl;
     return 0;
 }
-
-//lol
